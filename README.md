@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](github_welcome.png)
 
 <!--
 **annavincenzi-dev/annavincenzi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
